@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_dontsave">Cancel</string>
+    <string name="menu_help">Help</string>
+    <string name="menu_save">Done</string>
+</resources>
